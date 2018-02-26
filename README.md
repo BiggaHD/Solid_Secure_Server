@@ -1,5 +1,5 @@
 > ### Solid && Secure Server --> NodeJS Boilerplate !!
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/BiggaHD/Solid_Secure_Server/blob/master/Node.js_logo.svg "NodeJS baby")
 
 > This is my Node.js server boilerplate using:
 > >* bcrypt, 
