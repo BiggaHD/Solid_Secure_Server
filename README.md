@@ -1,5 +1,4 @@
 > ## Solid && Secure Server --> NodeJS Boilerplate !!
-___
 ![alt text](https://github.com/BiggaHD/Solid_Secure_Server/blob/master/Node.js_logo.svg "NodeJS baby")
 ```
 > This is my Node.js server boilerplate using:
@@ -11,4 +10,4 @@ ___
 > > * passport,
 > > * passport-jwt,  
 > > * passport-local
-```
+___
