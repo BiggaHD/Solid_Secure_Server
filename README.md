@@ -1,7 +1,4 @@
-
 > ## Solid && Secure Server :interrobang:
-___
-
 > > #### NodeJS Boilerplate !!  :rocket:
 ------ 
 
