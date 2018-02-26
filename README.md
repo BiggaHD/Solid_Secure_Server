@@ -1,7 +1,7 @@
 ___
 
 > ## Solid && Secure Server :interrobang:
-> > #### NodeJS Boilerplate !!
+> > #### NodeJS Boilerplate !! :rocket:
 ------ 
 
 ![alt text](https://github.com/BiggaHD/Solid_Secure_Server/blob/master/Node.js_logo.svg "NodeJS baby")
