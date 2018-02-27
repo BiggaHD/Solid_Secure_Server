@@ -1,7 +1,7 @@
 ___
 > # Solid && Secure Server :interrobang:
 > > ### NodeJS Boilerplate !!  :rocket: 
-> > If you want to use it, 2 things you need to do:
+> > If you want to use it, three things you need to do:
 > > * Git clone this repo
 > > * Run npm install
 > > * Run npm run dev [in order to start nodemon] 
