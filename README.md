@@ -19,5 +19,5 @@ ___
 > > * passport-jwt,  
 > > * passport-local
 
-> > Additionally it uses NODEMON as a development utility and MongoDB as a, well you guessed it, as a database. :smile:
+> > Additionally it uses NODEMON as a development utility and MongoDB as a, you guessed it, as a database. :smile:
 ___
